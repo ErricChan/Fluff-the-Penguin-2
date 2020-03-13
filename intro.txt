@@ -1,0 +1,18 @@
+Fluff the Penguin 2: Revenge of Big Boy
+
+This is a sequel to a previous I made in Spring 2019 during my Spring
+term in the University of Oregon. This was made with the concept of
+learning new controls and enemy behavior, which was a challenge
+since I needed to make a transition between different controls
+and movement. While it does let use the old assets I had, making
+new assets was a huge challenge since I needed to make them under
+the concepts and transitions I had in mind.
+
+Overall, it turned out great. It's currently made in WebGL, but
+Firefox seems to have made some precaution about local files.
+
+I recommend using Firefox, where you go to "about:config" and
+make "security.fileuri.strict_origin_policy" set to false.
+
+Also set "webgl.force-enabled" and "layers.acceleration.force-enabled"
+set to true.
