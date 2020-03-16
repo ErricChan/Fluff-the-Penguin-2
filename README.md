@@ -1,4 +1,4 @@
-#Fluff the Penguin 2: Revenge of Big Boy
+# Fluff the Penguin 2: Revenge of Big Boy
 
 This game is a sequel to my old group game project, Fluff the Penguin.
 While it still has some of the base mechanics in the previous one,
